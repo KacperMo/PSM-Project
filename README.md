@@ -1,24 +1,18 @@
-# vue-psm
+#  witryna internetowa projektu
 
-## Project setup
+## Projekt Cv Generator
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+2020 PSM
 ```
 
-### Compiles and minifies for production
+### Grupa
 ```
-npm run build
+Małgorzata Plata
+Kacper Morawski
+Maciek Faron
+Maciej Czenik
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Github page](https://kacpermo.github.io/PSM-Project/).
