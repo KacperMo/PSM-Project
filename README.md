@@ -15,8 +15,8 @@ Maciej Czarnik
 
 
 ### Strona Github page
-[Github page](https://kacpermo.github.io/PSM-Project/).
+[Github page](https://kacpermo.github.io/PSM-Project/)
 
 
 ### Strona wizzard
-[wizard](https://wizard.uek.krakow.pl/~s206684/).
+[Wizzard](https://wizard.uek.krakow.pl/~s206684/)
