@@ -15,7 +15,7 @@
             </template>
             <b-card-text>
               <div class="cvData">
-                <h2 v-if="dataNotAdded">Zacznij od wprowadzenia danych!</h2>
+                <h2 v-if="dataNotAdded">Witaj! To miłe że nas odwiedziłeś</h2>
                 <h2 v-else>
                   <strong>Informacje o tobie:</strong>
                 </h2>
