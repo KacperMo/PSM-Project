@@ -14,5 +14,6 @@ Maciej Czenik
 ```
 
 
-### Customize configuration
-See [Github page](https://kacpermo.github.io/PSM-Project/).
+### Strona dostępna na
+[Github page](https://kacpermo.github.io/PSM-Project/).
+[wizard](https://wizard.uek.krakow.pl/~s206684/).
