@@ -14,6 +14,9 @@ Maciej Czarnik 205629
 ```
 
 
-### Strona dostępna na
+### Strona Github page
 [Github page](https://kacpermo.github.io/PSM-Project/).
+
+
+### Strona wizzard
 [wizard](https://wizard.uek.krakow.pl/~s206684/).
