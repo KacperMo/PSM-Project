@@ -15,5 +15,5 @@ Maciej Czenik
 
 
 ### Strona dostępna na
-See [Github page](https://kacpermo.github.io/PSM-Project/).
-See [wizard](https://wizard.uek.krakow.pl/~s206684/).
+[Github page](https://kacpermo.github.io/PSM-Project/).
+[wizard](https://wizard.uek.krakow.pl/~s206684/).
