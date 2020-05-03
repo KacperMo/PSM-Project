@@ -9,8 +9,8 @@
 ```
 Małgorzata Plata
 Kacper Morawski
-Maciek Faron 205745
-Maciej Czarnik 205629
+Maciek Faron 
+Maciej Czarnik
 ```
 
 
