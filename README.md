@@ -10,7 +10,7 @@
 Małgorzata Plata
 Kacper Morawski
 Maciek Faron
-Maciej Czenik
+Maciej Czarnik
 ```
 
 
